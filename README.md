@@ -15,4 +15,9 @@ Number of data references<br>
 Number of instruction misses<br>
 Number of data misses<br>
 Number of words fetched from memory<br>
-Number of words copied back to memory<br>
+Number of words copied back to memory<be>
+
+# Running the Programs
+./sim -bs 128 -is 8196 -ds 8196 -a 1 -wb -wa ../traces/spice.trace 
+
+*** Please find the full report under Final Reports ***.
