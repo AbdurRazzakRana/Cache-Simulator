@@ -7,7 +7,7 @@ Block size<br>
 Unified vs. split I- and D-caches<br>
 Associativity<br>
 Write back vs. write through<br>
-Write allocate vs. write no allocate<br><br>
+Write allocate vs. write no allocate<br>
 
 Validation: The simulator must output the following counts.<br>
 Number of instruction references<br>
