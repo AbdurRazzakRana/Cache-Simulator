@@ -1,5 +1,5 @@
 # Project Target
-Building a cache simulator and validating its correctness.\n\n
+Building a cache simulator and validating its correctness.'\n'
 
 Cache Simulator: A trace-driven simulator needs to be developed. It will take command-line arguments of\n
 Total cache size\n
